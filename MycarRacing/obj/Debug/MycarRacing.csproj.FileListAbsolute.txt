@@ -1,0 +1,10 @@
+C:\Users\пк\source\repos\MycarRacing\MycarRacing\obj\Debug\MycarRacing.csprojAssemblyReference.cache
+C:\Users\пк\source\repos\MycarRacing\MycarRacing\obj\Debug\MycarRacing.Properties.Resources.resources
+C:\Users\пк\source\repos\MycarRacing\MycarRacing\obj\Debug\MycarRacing.csproj.GenerateResource.cache
+C:\Users\пк\source\repos\MycarRacing\MycarRacing\obj\Debug\MycarRacing.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\MycarRacing\MycarRacing\bin\Debug\MycarRacing.exe.config
+C:\Users\пк\source\repos\MycarRacing\MycarRacing\bin\Debug\MycarRacing.exe
+C:\Users\пк\source\repos\MycarRacing\MycarRacing\bin\Debug\MycarRacing.pdb
+C:\Users\пк\source\repos\MycarRacing\MycarRacing\obj\Debug\MycarRacing.exe
+C:\Users\пк\source\repos\MycarRacing\MycarRacing\obj\Debug\MycarRacing.pdb
+C:\Users\пк\source\repos\MycarRacing\MycarRacing\obj\Debug\MycarRacing.CarView.resources
